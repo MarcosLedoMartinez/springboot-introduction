@@ -1,4 +1,4 @@
-package com.marcosledo.vass.springboot_introduction;
+package com.marcosledo.vass.introduction;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
